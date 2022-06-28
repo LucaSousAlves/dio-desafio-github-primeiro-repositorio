@@ -1,0 +1,11 @@
+Chave SSH e Tokens
+Chave SSH - forma de estabelecer conexão segura e encriptada.
+Come gerar?
+SSH - Keygen -t ed25519 -C
+CD /c/users/usuario/.s
+cat id_ed25519.pub
+depois a chave será gerada. Em seguida copia a chave e cola no github
+Depois será preciso inicializar o SSH no git bash
+eval $(ssh-agent - S)
+ssh-add id_ed25519
+

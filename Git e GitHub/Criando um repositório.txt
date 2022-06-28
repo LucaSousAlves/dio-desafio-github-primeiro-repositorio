@@ -1,0 +1,5 @@
+Git init
+git status (status do arquivo)
+mv - mover 
+git config --list
+vai aparecer a lista de configuração caso queira alterar.

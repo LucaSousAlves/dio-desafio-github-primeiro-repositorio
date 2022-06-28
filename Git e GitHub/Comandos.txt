@@ -1,0 +1,8 @@
+Dir - navegar entre as pastas
+cd nome da pasta - escolhe a pasta digitada
+Ctrl L - Limpa o terminal
+cd .. - volta um nível
+Tab - completa
+mkdir - cria pasta
+del nome do arquivo - deleta o arquivo
+rmdir - deleta o repositório
